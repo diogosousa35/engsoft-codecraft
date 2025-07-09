@@ -1,4 +1,4 @@
-# 🚀 CODECRAFT Futuristic Login System
+# 🕹️ CODECRAFT Futuristic Login System
 
 Sistema de login futurista com interface neon e dashboard interativo desenvolvido com Django.
 
