@@ -1,6 +1,9 @@
 # 🕹️ CodeCraft - Plataforma Gamificada de Programação
 
 Sistema de login futurista com interface neon e dashboard interativo desenvolvido com Django.
+Confira nosso projeto que já foi lançado: https://codecraft-ifpi.vercel.app/
+login: alunoifpi@gmail.com
+senha: gameifpi
 
 ## ✨ Características
 
@@ -74,10 +77,9 @@ docker-compose up --build
 - Efeitos visuais avançados
 
 ### Centro de Jogos
-- Space Invaders
+- Syntax Surge
 - Cyber Puzzle
-- Neon Runner
-- Sistema de pontuação
+- Super If
 
 ## 🔧 Comandos Úteis
 
