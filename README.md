@@ -1,4 +1,4 @@
-# 🕹️ CODECRAFT - Plataforma Gamificada de Programação
+# 🕹️ CodeCraft - Plataforma Gamificada de Programação
 
 Sistema de login futurista com interface neon e dashboard interativo desenvolvido com Django.
 
