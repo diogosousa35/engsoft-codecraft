@@ -110,10 +110,10 @@ Contribuições são bem-vindas! Por favor, leia o [CONTRIBUTING.md](CONTRIBUTIN
 
 ## 📞 Suporte
 
-- 📧 Email: suporte@nexus-project.com
-- 💬 Discord: [NEXUS Community](https://discord.gg/nexus)
-- 🐦 Twitter: [@NexusProject](https://twitter.com/nexusproject)
+- 📧 Email: codecraft25@gmail.com
+- 💬 Discord: Em processo
+- 🐦 Twitter: Em processo
 
 ---
 
-**Feito com 💙 pela equipe NEXUS**
+**Feito com 💙 pela equipe CODECRAFT**
