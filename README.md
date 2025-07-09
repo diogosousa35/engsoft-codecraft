@@ -59,26 +59,6 @@ cd nexus-futuristic-login
 docker-compose up --build
 \`\`\`
 
-## 📁 Estrutura do Projeto
-
-\`\`\`
-nexus-futuristic-login/
-├── nexus/                 # Configurações do Django
-│   ├── settings/          # Configurações por ambiente
-│   ├── urls.py           # URLs principais
-│   └── wsgi.py           # WSGI application
-├── apps/                  # Apps do Django
-│   ├── authentication/   # Sistema de autenticação
-│   ├── dashboard/        # Dashboard principal
-│   ├── games/            # Sistema de jogos
-│   └── core/             # Funcionalidades core
-├── templates/            # Templates HTML
-├── static/               # Arquivos estáticos
-├── media/                # Uploads de usuário
-├── pyproject.toml        # Configuração do Poetry
-└── docker-compose.yml    # Configuração Docker
-\`\`\`
-
 ## 🎮 Funcionalidades
 
 ### Sistema de Autenticação
